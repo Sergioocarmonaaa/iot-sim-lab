@@ -1,5 +1,15 @@
-paho-mqtt
-matplotlib
-pandas
-python-dotenv
-streamlit
+# Dependencias para el laboratorio IoT + MQTT + Streamlit
+
+# Cliente MQTT
+paho-mqtt>=2.1.0
+
+# Visualización
+matplotlib>=3.8.0
+pandas>=2.2.0
+
+# Manejo de variables de entorno
+python-dotenv>=1.0.1
+
+# Dashboard opcional
+streamlit>=1.36.0
+
